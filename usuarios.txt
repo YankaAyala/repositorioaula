@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
+=======
+Rebson
+Alan
+>>>>>>> pagina_inicial
 Vitor
 Yanka
 Rob
